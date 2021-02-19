@@ -15,8 +15,7 @@
 # 微服务
 
 -  [可用性](./微服务/可用性.md)
-- 服务发现
-- 
+- [全链路](./微服务/全链路.md)
 
 # 缓存
 
@@ -47,6 +46,12 @@
 
 # 网络
 
+- http演进
+- tcp udp socket
+- dns cdn
+- lvs
+- arp icmp ping telnet
+
 # 算法
 
 - 负载均衡
@@ -54,3 +59,15 @@
 - bbr 
 - fq-codel
 - 滑动均值
+- max min fairness => DRF
+- load bound 哈希算法
+- 堆排序、快排、归并
+- Exponential backoff 
+
+https://aws.amazon.com/tw/blogs/architecture/exponential-backoff-and-jitter/
+
+
+
+# 论文
+
+- scaling memcache in facebook 
